@@ -18,7 +18,7 @@ export default function PokemonSection() {
             <h2 className="text-center font-bold text-5xl">Who's that Pokemon</h2>
             <div className="relative border container-lg  w-3/4 mx-auto " id="container">
                 
-                <img src='https://images3.alphacoders.com/677/677583.png' />
+                <img src='https://images3.alphacoders.com/677/677583.png' alt='Whos that pokemon background'/>
 
                 <Pokemon answer={answer} id={id}/>
                 <input className=" border rounded absolute w-1/4 top-[85%] left-[15%]" type="text" value={answer} onChange={(e)=> setAnswer(e.target.value)}/>    
