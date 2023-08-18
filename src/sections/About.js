@@ -16,7 +16,7 @@ export default function About() {
             </div>
             <div>
                 <h3 className="text-xl text-center mb-8 underline">Technical Skills:</h3>
-                <div className="flex flex-wrap max-w-xs justify-center">
+                <div className="flex flex-wrap max-w-xs justify-center ml-6">
                     <Skill text="HTML" />
                     <Skill text="CSS" />
                     <Skill text="JavaScript" />
@@ -27,7 +27,7 @@ export default function About() {
                     <Skill text="Express.js" />
                     <Skill text="MongoDB" />
                 </div>
-                <div className="border text-center bg-light-blueish text-primary mt-6">
+                <div className="border text-center bg-greenish-blue text-primary mt-6 rounded">
                 <a href={pdf} target="_blank" rel="noreferrer">Link to Resume</a>
                 </div>
             </div>

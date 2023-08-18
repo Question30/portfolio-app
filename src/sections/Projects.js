@@ -17,8 +17,13 @@ export default function Projects() {
             </div>
             <a href="https://github.com/Question30/portfolio-app" target="_blank" rel="noreferrer" className="border rounded bg-greenish-blue text-primary mb-4 w-3/4 mx-auto">Github Repo</a>
         </div>
+        <div>
         <div className="max-w-lg border-4 border-primary"><img src="https://i.imgur.com/Rtp8oh4.png" alt="Screenshot of portfolio page" />
-        <span className="text-primary">Live Site</span></div>
+        </div>
+        <div className="border border-primary bg-greenish-blue rounded text-center  mx-auto w-3/4 mt-2">
+        <a href="https://main--spectacular-fudge-5b2ab4.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
+
+        </div>
       </div>
       <div className="flex flex-row my-8 justify-evenly flex-wrap">
       <div className="container-sm flex flex-col text-center max-w-md mb-4 bg-primary border rounded-md">
