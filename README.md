@@ -1,5 +1,5 @@
 # Portfolio Project
-Link to live [Demo](https://spectacular-fudge-5b2ab4.netlify.app/) 
+Link to live [Demo](https://alexanderg-portfolio.netlify.app/) 
 
 Portfolio for showcasing my projects and skills as a Software Developer.
 
