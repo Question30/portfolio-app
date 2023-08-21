@@ -21,7 +21,7 @@ export default function Projects() {
         <div className="max-w-lg border-4 border-primary"><img src="https://i.imgur.com/Rtp8oh4.png" alt="Screenshot of portfolio page" />
         </div>
         <div className="border border-primary bg-greenish-blue rounded text-center  mx-auto w-3/4 mt-2">
-        <a href="https://main--spectacular-fudge-5b2ab4.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
+        <a href="https://alexanderg-portfolio.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
 
         </div>
       </div>
@@ -62,7 +62,7 @@ export default function Projects() {
         <img src="https://i.imgur.com/ungbQ3F.png" alt="screen shot of React movie app" />
         </div>
         <div className="border border-primary bg-greenish-blue rounded text-center  mx-auto w-3/4 mt-2">
-            <a href="https://alexanderg-portfolio.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a>
+            <a href="https://main--wondrous-lamington-c29984.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a>
         </div>
         </div>
       </div>
