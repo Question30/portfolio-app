@@ -24,7 +24,7 @@ export default function Projects() {
         <div className="max-w-lg border-4 border-primary"><img src="https://i.imgur.com/aOpu7z5.png" alt="Screenshot of fitness tracker app" />
         </div>
         <div className="border border-primary bg-greenish-blue rounded text-center  mx-auto w-3/4 mt-2">
-        <a href="https://alexanderg-portfolio.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
+        <a href="https://fitness-tracker-87za.onrender.com/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
 
         </div>
       </div>
