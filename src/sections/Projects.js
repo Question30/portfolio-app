@@ -7,18 +7,21 @@ export default function Projects() {
       <p className="text-center text-2xl mb-6 text-primary">Projects I have worked on</p>
       <div className="flex flex-row my-8 justify-evenly flex-wrap ">
         <div className="container flex flex-col text-center max-w-md mb-4 bg-primary border rounded-md">
-            <h3 className="text-2xl font-bold py-4 underline">Portfolio v1</h3>
-            <p  className="text-clip py-4 px-2">Portfolio website built to showcase my work and experience. Includes a fun litte Pokemon game towards the bottom. It was built using the following technologies: </p>
+            <h3 className="text-2xl font-bold py-4 underline">Fitness Tracker v1</h3>
+            <p  className="text-clip py-4 px-2">Fitness tracking featring signup/login, creating workout templates, workout logging and a workout history. It was built using the following technologies: </p>
             <div className="flex flex-wrap max-w-md justify-center ml-6">
               <Skill text="React"/>
               <Skill text= "TailwindCss" />
-              <Skill text= "React Router Dom"/>
-              <Skill text="Restful API" />
+              <Skill text= "Node"/>
+              <Skill text="Express" />
+              <Skill text="MongoDB" />
+              <Skill text="Mongoose" />
+              <Skill text="Bcrypt" />
             </div>
-            <a href="https://github.com/Question30/portfolio-app" target="_blank" rel="noreferrer" className="border rounded bg-greenish-blue text-primary mb-4 w-3/4 mx-auto">Github Repo</a>
+            <a href="https://github.com/Question30/fitness-app" target="_blank" rel="noreferrer" className="border rounded bg-greenish-blue text-primary mb-4 w-3/4 mx-auto">Github Repo</a>
         </div>
         <div>
-        <div className="max-w-lg border-4 border-primary"><img src="https://i.imgur.com/Rtp8oh4.png" alt="Screenshot of portfolio page" />
+        <div className="max-w-lg border-4 border-primary"><img src="https://i.imgur.com/aOpu7z5.png" alt="Screenshot of fitness tracker app" />
         </div>
         <div className="border border-primary bg-greenish-blue rounded text-center  mx-auto w-3/4 mt-2">
         <a href="https://alexanderg-portfolio.netlify.app/" target="_blank" rel="noreferrer" className="text-primary">Live Site</a></div>
